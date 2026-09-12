@@ -16,7 +16,4 @@ Demo target: SauceDemo (https://www.saucedemo.com/) — a public e-commerce demo
 pip install -r requirements.txt
 
 ## Running Tests
-pytest --html=reports/report.html --self-contained-html
-
-## Tech Stack
-Python 3.10+, Selenium WebDriver 4.x, Pytest, pytest-html, webdriver-manager
+pytest --html=reports/report.html --
